@@ -15,7 +15,7 @@ effectively.
 <ul>
 <li> Revenue increased by 28.8%</li>
 <li> Total Transaction Amt & Count increased by 35% & 3.4%</li>
-<li> Customer count increased by xx%</li>
+<li> Customer count increased by 12.8%</li>
 </ul>
 
 ### Overview YTD:
